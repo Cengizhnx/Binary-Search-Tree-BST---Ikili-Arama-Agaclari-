@@ -1,1 +1,1 @@
-# Binary-Search-Tree-BST---Ikili-Arama-Agaclari-
+# Binary-Search-Tree (BST) - İkili-Arama-Agaclari-
